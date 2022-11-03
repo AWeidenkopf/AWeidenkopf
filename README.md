@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AWeidenkopf
+- 👋 Hi, I’m Ana!
 - 👀 I’m interested in web development!
 - 🌱 I’m currently learning Python and Django.
 - 💞️ I’m looking to collaborate on front and back end projects using JavaScript or Python.
